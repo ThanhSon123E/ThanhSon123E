@@ -1,6 +1,7 @@
 
 ## 🌐Socials
-## https://icons8.com/icon/52539/github https://thanhson123e.github.io/SkyFile/
+## ![image](https://github.com/user-attachments/assets/f50c3b1f-e9e2-4108-afe0-6f4541c930b6)
+ https://thanhson123e.github.io/SkyFile/
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ken.bro.35728/) 
 
 # 💻Tech Stack
